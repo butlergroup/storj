@@ -43,7 +43,7 @@ require (
 	github.com/alecthomas/participle v0.2.1 // indirect
 	github.com/alicebob/miniredis/v2 v2.37.0 // indirect
 	github.com/apache/arrow/go/v15 v15.0.2 // indirect
-	github.com/apache/thrift v0.17.0 // indirect
+	github.com/apache/thrift v0.23.0 // indirect
 	github.com/bcicen/jstream v1.0.1 // indirect
 	github.com/beevik/ntp v0.3.0 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
