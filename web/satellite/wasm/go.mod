@@ -1,6 +1,6 @@
 module storj.io/storj/web/satellite/wasm
 
-go 1.25
+go 1.25.0
 
 require (
 	github.com/stretchr/testify v1.11.1
@@ -79,10 +79,10 @@ require (
 	github.com/jackc/pgerrcode v0.0.0-20201024163028-a0d42d470451 // indirect
 	github.com/jackc/pgio v1.0.0 // indirect
 	github.com/jackc/pgpassfile v1.0.0 // indirect
-	github.com/jackc/pgservicefile v0.0.0-20221227161230-091c0ba34f0a // indirect
+	github.com/jackc/pgservicefile v0.0.0-20240606120523-5a60cdf6a761 // indirect
 	github.com/jackc/pgtype v1.14.1 // indirect
-	github.com/jackc/pgx/v5 v5.6.0 // indirect
-	github.com/jackc/puddle/v2 v2.2.1 // indirect
+	github.com/jackc/pgx/v5 v5.9.2 // indirect
+	github.com/jackc/puddle/v2 v2.2.2 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/jtolds/monkit-hw/v2 v2.0.0-20250117140252-1a544613ac79 // indirect
 	github.com/jtolds/tracetagger/v2 v2.0.0-rc5 // indirect
